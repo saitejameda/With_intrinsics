@@ -1,0 +1,10 @@
+exp_name = w2_18_8_1e-3_200_val
+dataset_name = ego4d
+
+model_version = L
+resnet_layers = 18
+
+lr = 1e-5
+batch_size = 8
+num_epochs = 1
+epoch_size = 64
